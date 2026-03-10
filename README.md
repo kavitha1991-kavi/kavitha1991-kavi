@@ -1,5 +1,5 @@
  Hi there 👋, I'm Kavitha Vijayan
-**Aspiring Data Analyst / Tableau Enthusiast**
+ Aspiring Data Analyst / Tableau Enthusiast
 
 Welcome to my GitHub! I love turning data into insights through interactive dashboards and visual storytelling. My goal is to help organizations make **data-driven decisions** and explore actionable insights.
 
