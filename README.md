@@ -1,15 +1,19 @@
- Hi there 👋, I'm Kavitha Vijayan   
-      Aspiring Data Analyst / Tableau Enthusiast
+# Hi there 👋 I'm Kavitha Vijayan
 
-Welcome to my GitHub! I love turning data into insights through interactive dashboards and visual storytelling. My goal is to help organizations make **data-driven decisions** and explore actionable insights.
+Aspiring Data Analyst passionate about turning data into actionable insights through dashboards and analytics.
 
- Skills & Tools
-- **Data Analysis & Visualization:** Tableau, Power BI, Excel  
-- **Programming & Data Handling:** Python (Pandas, NumPy), SQL  
-- **Other Tools:** Git, GitHub, Jupyter Notebook  
+## Skills & Tools
+- Data Analysis: SQL, Python (Pandas, NumPy)
+- Data Visualization: Tableau, Power BI
+- Data Tools: Excel, Jupyter Notebook
+- Version Control: Git, GitHub
 
- 🔹 Projects
-Here are a few projects I’ve worked on:  
-- **Region Sales Dashboard:** Interactive Tableau dashboard comparing sales across regions with KPIs, bar and line charts.  
-- **Superstore Data Analysis:** Analyzed sales, customers, and products trends using Tableau and Python.
-“Turning raw data into meaningful insights, one dashboard at a time.” 
+## Projects
+- Region Sales Dashboard – Tableau dashboard comparing regional performance using KPIs.
+- Employee Performance Analysis – SQL + Tableau project analysing employee metrics.
+- Superstore Data Analysis – Sales and customer insights using Python and Tableau.
+
+## Goal
+To help organisations make better decisions using data-driven insights.
+
+“Turning raw data into meaningful insights, one dashboard at a time.”
