@@ -2,6 +2,7 @@
 
 Aspiring Data Analyst passionate about turning data into actionable insights through dashboards and analytics.
 
+
 ## Skills & Tools
 - Data Analysis: SQL, Python (Pandas, NumPy)
 - Data Visualization: Tableau, Power BI
