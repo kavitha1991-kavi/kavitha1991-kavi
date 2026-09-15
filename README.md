@@ -9,9 +9,10 @@ Aspiring Data Analyst passionate about turning data into actionable insights thr
 - Version Control: Git, GitHub
 
 ## Projects
-- Region Sales Dashboard – Tableau dashboard comparing regional performance using KPIs.
-- Employee Performance Analysis – SQL + Tableau project analysing employee metrics.
-- Superstore Data Analysis – Sales and customer insights using Python and Tableau.
+Healthcare Cost Prediction using Machine Learning.
+Region Sales Dashboard – Tableau dashboard comparing regional performance using KPIs.
+Employee Performance Analysis – SQL + Tableau project analysing employee metrics.
+Superstore Data Analysis – Sales and customer insights using Python and Tableau.
 
 ## Goal
 To help organisations make better decisions using data-driven insights.
