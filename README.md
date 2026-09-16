@@ -15,6 +15,7 @@ Aspiring Data Analyst passionate about turning data into actionable insights thr
 2.AAL Q4 Australia Sales Analysis using python and Sql.
 3.Region Sales Dashboard – Tableau dashboard comparing regional performance using KPIs.
 4.Employee Performance Analysis – SQL + Tableau project analysing employee metrics.
+5.Integrated-Anti-Money-Laundering-AML-Transaction-Risk-Management-Platform
 
 ## Goal
 To help organisations make better decisions using data-driven insights.
