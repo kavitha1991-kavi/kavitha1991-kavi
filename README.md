@@ -11,10 +11,10 @@ Aspiring Data Analyst passionate about turning data into actionable insights thr
 - Version Control: Git, GitHub
 
 ## Projects
-Healthcare Cost Prediction using Machine Learning.
-AAL Q4 Australia Sales Analysis using python and Sql.
-Region Sales Dashboard – Tableau dashboard comparing regional performance using KPIs.
-Employee Performance Analysis – SQL + Tableau project analysing employee metrics.
+1.Healthcare Cost Prediction using Machine Learning.
+2.AAL Q4 Australia Sales Analysis using python and Sql.
+3.Region Sales Dashboard – Tableau dashboard comparing regional performance using KPIs.
+4.Employee Performance Analysis – SQL + Tableau project analysing employee metrics.
 
 ## Goal
 To help organisations make better decisions using data-driven insights.
