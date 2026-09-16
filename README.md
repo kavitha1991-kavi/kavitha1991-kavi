@@ -11,8 +11,7 @@ Aspiring Data Analyst passionate about turning data into actionable insights thr
 
 ## Projects
 Healthcare Cost Prediction using Machine Learning.
-AAL Q4 Australia Sales Analysis
-
+AAL Q4 Australia Sales Analysis using python and Sql.
 Region Sales Dashboard – Tableau dashboard comparing regional performance using KPIs.
 Employee Performance Analysis – SQL + Tableau project analysing employee metrics.
 Superstore Data Analysis – Sales and customer insights using Python and Tableau.
