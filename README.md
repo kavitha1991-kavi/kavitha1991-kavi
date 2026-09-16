@@ -5,6 +5,7 @@ Aspiring Data Analyst passionate about turning data into actionable insights thr
 
 ## Skills & Tools
 - Data Analysis: SQL, Python (Pandas, NumPy)
+- Machine Learning (Scikit-learn, Regression, Classification, Random Forest, Feature Engineering, Model Evaluation)
 - Data Visualization: Tableau, Power BI
 - Data Tools: Excel, Jupyter Notebook
 - Version Control: Git, GitHub
